@@ -12,7 +12,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1173",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      liveLink: "https://github.com/Nikhil-26-pavan/EDVORA",
+      liveLink: "https://edvora-gold-five.vercel.app/",
       details:
         "This interactive portfolio was built to highlight my professional journey with smooth animations, responsive layout, and a minimal, elegant design.",
       features: [
@@ -30,7 +30,7 @@ const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      liveLink: "https://github.com/Nikhil-26-pavan/Expence-Tracker",
+      liveLink: "https://expence-tracker-smoky-one.vercel.app/",
       details:
         "This interactive portfolio was built to highlight my professional journey with smooth animations, responsive layout, and a minimal, elegant design.",
       features: [
@@ -47,7 +47,7 @@ const Projects = () => {
     <section id="projects" className="py-20 bg-gray-50 dark:bg-gray-900">
       <div className="container mx-auto px-6">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">
-          My <span className="text-blue-500">Projects</span>
+          <span className="text-white">My</span> <span className="text-blue-500">Projects</span>
         </h2>
 
         {/* Project Cards */}

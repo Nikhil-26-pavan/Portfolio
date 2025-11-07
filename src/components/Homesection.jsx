@@ -32,7 +32,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-600 mb-8">
-         Pursuing MCA | Tech Enthusiast |  
+         Pursuing MCA | Tech Enthusiast | Ambitious
         </p>
 
         <p className="text-lg text-gray-500 mb-12">
@@ -49,10 +49,10 @@ const Hero = () => {
           </button>
 
           <button
-            onClick={() => scrollToSection("#contact")}
+            
             className="px-6 py-3 rounded-lg border-2 border-indigo-500 text-indigo-600 font-semibold hover:bg-indigo-500 hover:text-white shadow-md transition-transform transform hover:scale-105"
           >
-            Get In Touch
+            Resume Download
           </button>
         </div>
 

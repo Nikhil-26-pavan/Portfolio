@@ -12,7 +12,7 @@ const Skills = () => {
     { name: "C Programming", image: "https://img.icons8.com/color/96/c-programming.png" },
     { name: "C++", image: "https://img.icons8.com/color/96/c-plus-plus-logo.png" },
     { name: "Python", image: "https://img.icons8.com/color/96/python--v1.png" },
-    { name: "React", image: "https://icons8.com/icon/voJ15GoZniHZ/external-react-a-javascript-library-for-building-user-interfaces-logo-filled-tal-revivo.png" },
+    { name: "React", image: "https://img.icons8.com/office/40/react.png" },
     { name: "Microsoft Word", image: "https://img.icons8.com/color/96/ms-word.png" },
     { name: "GitHub", image: "https://img.icons8.com/glyph-neue/96/github.png" },
     { name: "SQL", image: "https://img.icons8.com/ios-filled/96/sql.png" },
